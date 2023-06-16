@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686720519 source:c:\users\abhishek rane\desktop\program\bit op\main.c
+	<stdio.h>
+	<stdlib.h>
+
